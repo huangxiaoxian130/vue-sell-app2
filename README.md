@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-sell-app2
 
 > 购物网站
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-sell-app2
+>>>>>>> 874c0b409891dd98d4f1e118be34598e06f14405
